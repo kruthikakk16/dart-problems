@@ -1,0 +1,10 @@
+///calculating the area of rectangle
+void main()
+{
+int length=10;//length input
+int breadth=5;//breadth input
+int area=length*breadth;
+/*calculates area
+ taking the length and breadth as input*/
+print("Area of rectangle=$area");
+}
